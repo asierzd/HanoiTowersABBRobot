@@ -21,7 +21,7 @@ Implementation of a solution to the Hanoi Towers Problem using an ABB robot (IRB
 ## Intelligent Tool
 
 - **Intelligent tool components and logic**:
-![IntelligentTool](https://github.com/asierzd/HanoiTowersABBRobot/blob/master/IntelligentToolPickAndPlace.png)
+![IntelligentToolPickAndPlace](https://github.com/asierzd/HanoiTowersABBRobot/blob/master/IntelligentToolPickAndPlace.png)
 - **Station logic**:
 ![StationLogic](https://github.com/asierzd/HanoiTowersABBRobot/blob/master/StationLogic.png)
 
