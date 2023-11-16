@@ -2,7 +2,7 @@
 
 Implementation of a solution to the Hanoi Towers Problem using an ABB robot (IRB120_3_58) and programmed in RAPID language using recursion.
 
-![HanoiTowers](https://github.com/asierzd/Algorithms-And-Complexity-Practices/blob/master/HanoiTowers.png)
+![HanoiTowers](https://github.com/asierzd/HanoiTowersABBRobot/blob/master/HanoiTowers.png)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/asierzd/HanoiTowersABBRobot?label=License&style=for-the-badge&color=yellow" href="https://opensource.org/license/gpl-3-0/"/>
@@ -21,7 +21,7 @@ Implementation of a solution to the Hanoi Towers Problem using an ABB robot (IRB
 ## Intelligent Tool
 
 - **Intelligent tool components and logic**:
-![IntelligentTool](https://github.com/asierzd/Algorithms-And-Complexity-Practices/blob/master/IntelligentToolPickAndPlace.png)
+![IntelligentTool](https://github.com/asierzd/HanoiTowersABBRobot/blob/master/IntelligentToolPickAndPlace.png)
 - **Station logic**:
-![StationLogic](https://github.com/asierzd/Algorithms-And-Complexity-Practices/blob/master/StationLogic.png)
+![StationLogic](https://github.com/asierzd/HanoiTowersABBRobot/blob/master/StationLogic.png)
 
