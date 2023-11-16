@@ -42,7 +42,9 @@ My implementation basically consists in the use of the classical recursion solut
 
 However this solution is adapted to use my intelligent tool with the previously created digital signals, and taking into account **six** possible moves for the disk picked depending on where the disk has to be picked and where it has to be placed. 
 
-Another consideration about my implementation, is that it also takes into account the number of disks for each iteration with **three global variables** that count the number of disks in each tower. The code can be visuallized in the **'Module1.mod'** file.
+Another consideration about my implementation, is that it also takes into account the number of disks for each iteration with **three global variables** that count the number of disks in each tower. 
+
+The code can be visuallized in the **'Module1.mod'** file.
 
 ## License
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
