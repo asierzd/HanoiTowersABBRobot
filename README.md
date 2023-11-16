@@ -4,9 +4,9 @@ Implementation of a solution to the Hanoi Towers Problem using an ABB robot (IRB
 
 ![HanoiTowers](https://github.com/asierzd/HanoiTowersABBRobot/blob/main/imgs/HanoiTowers.png)
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://github.com/asierzd/HanoiTowersABBRobot/blob/main/imgs/HanoiTowers.png" alt="Hanoi Towers model">
-</div>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/asierzd/HanoiTowersABBRobot?label=License&style=for-the-badge&color=yellow" href="https://opensource.org/license/gpl-3-0/"/>
