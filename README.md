@@ -38,3 +38,7 @@ Implementation of a solution to the **Hanoi Towers Problem** using an **ABB robo
 
 ## RAPID Program
 
+My implementation basically consists in the use of the classical recursion solution, it is a general solution, so if you want to add more disks, you can place more in the first tower and change the variable **N** with the total number of disks to solve the problem. However this solution is adapted to use my intelligent tool with the previously created digital signals, and taking into account **six** possible moves for the disk picked depending on where the disk has to be picked and where it has to be placed. Another consideration about my implementation, it also takes into account the number of disks for each iteration with **three global variables** that count the number of disks in each tower. The code can be visuallized in the **'Module1.mod'** file.
+
+## License
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
