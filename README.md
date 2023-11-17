@@ -18,7 +18,7 @@ Implementation of a solution to the **Hanoi Towers Problem** using an **ABB robo
 
 ## Implementation
 - Tool with the geometry provided by RobotStudio.
-- Intelligent tool 'MiAspiradorTool', for the Pick and Place of the disks, as a vacuum gripper tool.
+- Intelligent tool 'AspiradorInteligente', for the Pick and Place of the disks, as a vacuum gripper tool.
 - Station logic, creating the necessary digital signals to communicate the robot controller and our intelligent tool. 
 - Hanoi Towers problem implemented using *recursion*, available in the **'Module1.mod'** file.
 
